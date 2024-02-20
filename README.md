@@ -1,4 +1,5 @@
 === RSS Poster ===
+
 Contributors: Jesse
 Donate link: http://www.wprssposter.com/
 Tags: rss,post,feed,auotblog
@@ -9,6 +10,7 @@ Stable tag: trunk
 RSS Poster will automatically grab FULL articles from chosen RSS Feeds.<br />
 
 == Description ==
+
 RSS Poster will automatically grab FULL articles from chosen RSS Feeds.<br />
 <strong>Features: </strong><br />
 - Easy to install<br>
