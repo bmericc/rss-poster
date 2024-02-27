@@ -19,7 +19,7 @@ function arrayToXml($array, &$xml){
 
 $q = $_GET["q"];
 
-$content = "https://www.googleapis.com/customsearch/v1?alt=json&cx=016697887527952889039:28ns98t9318&key=AIzaSyCfEQxGb3Z7upu9QSBST_GLYnDQZK2Geog&q=".$q;
+
 $array = json_decode(file_get_contents($content), true);
 
 
