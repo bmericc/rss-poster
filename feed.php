@@ -9,11 +9,10 @@ function rpf_print_feeds($feeds=''){
 
 <?php
 
-		
 		$x++;
 		if($feeds){
 			usort($feeds,'rpf_sort');
-			while (list($name, $ops) = each($feeds)) {
+			foreach($feeds as $ops) {
 
 				echo "
 					<tr>
